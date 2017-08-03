@@ -94,3 +94,11 @@
 	at java.lang.Thread.run(Thread.java:748)
 
 03-Aug-2017 10:09:04.833 SEVERE [localhost-startStop-3] org.apache.catalina.core.StandardContext.listenerStart Skipped installing application listeners due to previous error(s)
+03-Aug-2017 10:23:32.920 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Aug-2017 10:23:32.924 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Aug-2017 10:23:33.680 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Aug-2017 10:23:33.683 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Aug-2017 10:25:53.029 INFO [localhost-startStop-4] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+03-Aug-2017 10:25:53.030 INFO [localhost-startStop-4] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+03-Aug-2017 10:26:04.856 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Aug-2017 10:26:04.856 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
